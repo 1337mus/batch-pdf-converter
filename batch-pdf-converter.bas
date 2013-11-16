@@ -1,7 +1,7 @@
 Attribute VB_Name = "BatchPDFConverter"
 
 Sub BatchPDFConverter()
-
+'''''DATE OF CHANGE: 11/16/2013 @ 17:42 EDT
 '''''INITIALIZATION'''''
 Dim sourceFolder As String
 Dim saveFolder As String
