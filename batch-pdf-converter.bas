@@ -32,7 +32,7 @@ Select Case Response
 End Select
 ''''''''''
 
-'''''/////MAIN CODE OF THE APPLICATION/////'''''
+'''''<<<<<MAIN CODE OF THE APPLICATION'''''
 Application:
 '''''LOCATION OF THE FOLDERS USED IN THIS MACRO'''''
 With Application.FileDialog(msoFileDialogFolderPicker)
@@ -89,7 +89,7 @@ MsgBox (j & " PDF files were created from " & i & " Word documents")
 ''''''''''
 
 Exit Sub
-'''''/////END OF MAIN CODE OF THE APPLICATION/////'''''
+'''''MAIN CODE OF THE APPLICATION>>>>>'''''
 
 '''''ERROR HANDLER'''''
 ErrHandler:
